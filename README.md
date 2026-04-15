@@ -133,3 +133,9 @@ ESP32 receives this data and processes it for cloud monitoring.
 ## Conclusion
 
 This project demonstrates a complete smart power distribution system integrating embedded control, electrical protection, and IoT technology. It improves system safety, enables efficient load management, and provides real-time monitoring and alert mechanisms, making it suitable for modern electrical and industrial applications.
+
+## Circuit Diagram
+![Circuit](Circuits/Circuit.png)
+
+## Output
+![Output](Circuits/Output.png)
